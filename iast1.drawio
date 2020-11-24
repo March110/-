@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-24T07:36:44.861Z" agent="5.0 (Windows)" etag="hNxsNgSdN5h7hgZeUVfM" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-24T13:09:25.255Z" agent="5.0 (Windows)" etag="Kia2xC0kN1Xlily5FZRS" version="13.10.0" type="github">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
     <mxGraphModel dx="2705" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -156,6 +156,27 @@
         </mxCell>
         <mxCell id="K7k0_T_SSJ15ffRAY8dM-85" value="SecTeser" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="775.01" y="759.5" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="K7k0_T_SSJ15ffRAY8dM-91" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/smallicons-logotypes/32/internet_explorer-128.png" vertex="1" parent="1">
+          <mxGeometry x="201.5" y="645.62" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="K7k0_T_SSJ15ffRAY8dM-92" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/smallicons-logotypes/32/internet_explorer-128.png" vertex="1" parent="1">
+          <mxGeometry x="268" y="645.62" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="K7k0_T_SSJ15ffRAY8dM-93" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/smallicons-logotypes/32/internet_explorer-128.png" vertex="1" parent="1">
+          <mxGeometry x="333.5" y="645.62" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="K7k0_T_SSJ15ffRAY8dM-94" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/smallicons-logotypes/32/internet_explorer-128.png" vertex="1" parent="1">
+          <mxGeometry x="397.5" y="645.62" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="K7k0_T_SSJ15ffRAY8dM-95" value="插桩" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="270" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="K7k0_T_SSJ15ffRAY8dM-96" value="插桩" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="221" y="270" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="K7k0_T_SSJ15ffRAY8dM-97" value="插桩" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="268" y="270" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
